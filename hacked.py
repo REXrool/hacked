@@ -9,7 +9,7 @@ from discord.ext import commands
 import data
 
 bot = commands.Bot(command_prefix="///", case_insensitive=True)
-bot.owners = [356091260429402122]
+bot.owners = [470365100146950165]
 
 
 @bot.event
